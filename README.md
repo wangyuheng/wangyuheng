@@ -1,12 +1,12 @@
-### Hi there 👋 
+### Hi there 👋 I am wangyuheng
 
 ![](https://komarev.com/ghpvc/?username=wangyuheng)
 
-👨‍💻  Coding | :running: Running | :office: Working Hard | :hearts: Be Nice
+#### 👨‍💻  Coding | :running: Running | :office: Working Hard | :hearts: Be Nice
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=wangyuheng&show_icons=true&theme=gruvbox" />
  
-- 🔭 I’m currently working on :hospital: Medical Technology Company using [`Java`](https://github.com/topics/java)  
+- 🔭 I’m currently working on :hospital: Medical Technology Company 
 - 🌱 I’m currently learning [`Kotlin`](https://github.com/topics/kotlin)
 - 👯 I’m looking to collaborate on [Dgraph](https://github.com/topics/dgraph) and [GraphQL](https://github.com/topics/graphql) Projects
 - 💬 Ask me about anything as long as I can
