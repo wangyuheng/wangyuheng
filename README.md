@@ -16,11 +16,12 @@
 
 ####  :rainbow:  Focusing
 
-[![Focus Repo](https://github-readme-stats.vercel.app/api/pin/?username=YituHealthcare&repo=Arc)](https://github.com/anuraghazra/github-readme-stats)
+[![Focus Repo](https://github-readme-stats.vercel.app/api/pin/?username=YituHealthcare&repo=Arc)](https://github.com/YituHealthcare/Arc)
+[![Focus Repo](https://github-readme-stats.vercel.app/api/pin/?username=wangyuheng&repo=ddl2plantuml)](https://github.com/wangyuheng/ddl2plantuml)
 
 ####  :hammer:  Language
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wangyuheng&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wangyuheng&hide=html,css)](https://github.com/wangyuheng)
 
 
 
