@@ -16,7 +16,7 @@
 
 ####  :rainbow:  Focusing
 
-[![Focus Repo](https://github-readme-stats.vercel.app/api/pin/?username=YituHealthcare&repo=Arc)](https://github.com/YituHealthcare/Arc)
+[![Focus Repo](https://github-readme-stats.vercel.app/api/pin/?username=iaerac&repo=Arc)](https://github.com/iaerac/Arc)
 [![Focus Repo](https://github-readme-stats.vercel.app/api/pin/?username=wangyuheng&repo=ddl2plantuml)](https://github.com/wangyuheng/ddl2plantuml)
 
 ####  :hammer:  Language
